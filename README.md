@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Yuehan Wang (@zozo-W)
+- 👀 Currently a master student of Business Analytics in University of British Columbia (Vancouver, Canada)
+- 💞️ I’m looking to collaborate on data analysis and open to jobs.
+- 📫 How to reach me : wangzozo@outlook.com
